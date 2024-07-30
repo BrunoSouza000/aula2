@@ -1,1 +1,24 @@
-vou fazer minha atividade!
+atividade sequencia logica sanduiche
+
+1- pegar um prato ----> colocar em cima do balcão
+
+2- tem pão?  se não ---> comprar pão
+	     se sim ---> abrir sacola de pão ---> pegar pão
+	     abrir gaveta de talhares ---> pegar faca ---> fechar gaveta de talheres ---> cortar pão ---> colocar em cima do prato
+
+3- ir até a geladeira ---> abrir geladeira ---> pegar queijo e presunto ---> fechar geladeira
+
+4- voltar até onde esta o prato
+
+5- abrir pão ---> colocar o presunto e o queijo dentro do pão ---> fechar pão
+
+6- colocar pão na sanduicheira? se não ---> pão pronto
+				se sim ---> ir até sanduicheira ---> ligar sanduicheira ---> abrir a sanduicheira ---> pegar o pão ---> colocar dentro da sanduicheira ---> fechar sanduicheria
+
+7- aguardar o pão ficar pronto ---> abrir sanduicheira ---> tirar o pão da sanduicheira ---> colocar o pão em cima do prato ---> fechar sanduicheria ---> desligar sanduichiera
+
+8- sanduiche pronto
+	     
+	     
+	 
+
