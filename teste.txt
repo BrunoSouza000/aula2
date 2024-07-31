@@ -23,7 +23,7 @@ atividade sequencia logica sanduiche
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-git clone "endereco diretorio que sera clonado" ex: https://github.com/BrunoSouza000/aula2.git
+clonar pasta do github 			git clone "endereco diretorio que sera clonado" ex: https://github.com/BrunoSouza000/aula2.git
 
 
 
