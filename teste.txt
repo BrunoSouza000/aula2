@@ -1,5 +1,57 @@
 atividade sequencia logica sanduiche
 
+Pegar um prato
+
+Colocar em cima do balcão.
+Verificar se há pão
+
+Se não houver pão: Comprar pão.
+Se houver pão:
+Abrir sacola de pão.
+Pegar pão.
+Fechar sacola.
+Abrir gaveta de talheres.
+Pegar faca.
+Cortar pão.
+Colocar pão em cima do prato.
+Ir até a gaveta.
+Guardar faca.
+Fechar gaveta de talheres.
+Ir até a geladeira
+
+Abrir geladeira.
+Pegar queijo e presunto.
+Fechar geladeira.
+Voltar até onde está o prato.
+
+Preparar o pão
+
+Abrir pão.
+Colocar o presunto e o queijo dentro do pão.
+Fechar pão.
+Verificar se o pão será colocado na sanduicheira
+
+Se não: Pão pronto.
+Se sim:
+Ir até a sanduicheira.
+Ligar sanduicheira.
+Abrir a sanduicheira.
+Pegar o pão.
+Colocar dentro da sanduicheira.
+Fechar sanduicheira.
+Aguardar o pão ficar pronto
+
+Abrir sanduicheira.
+Tirar o pão da sanduicheira.
+Colocar o pão em cima do prato.
+Fechar sanduicheira.
+Desligar sanduicheira.
+Sanduíche pronto.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 1- pegar um prato ----> colocar em cima do balcão;
 
 2- tem pão?  se não ---> comprar pão;
