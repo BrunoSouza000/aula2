@@ -77,6 +77,8 @@ Sanduíche pronto.
 
 clonar pasta do github 			git clone "endereco diretorio que sera clonado" ex: https://github.com/BrunoSouza000/aula2.git
 
+					git config --global user.name "SEU_NOME_DE_USUARIO" 
+					git config --global user.email "SEU_E-MAIL"
 
 
 Sequencia para mandar um arquivo para o git	-----> git add .
