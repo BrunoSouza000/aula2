@@ -4,7 +4,7 @@ atividade sequencia logica sanduiche
 
 2- tem pão?  se não ---> comprar pão
 	     se sim ---> abrir sacola de pão ---> pegar pão
-	     abrir gaveta de talhares ---> pegar faca ---> fechar gaveta de talheres ---> cortar pão ---> colocar em cima do prato
+	     abrir gaveta de talhares ---> pegar faca ---> fechar gaveta de talheres ---> cortar pão ---> colocar em pão cima do prato ---> abrir gaveta de talheres ---> guardar faca ---> fechar gaveta de talheres
 
 3- ir até a geladeira ---> abrir geladeira ---> pegar queijo e presunto ---> fechar geladeira
 
