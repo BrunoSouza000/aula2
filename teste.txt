@@ -51,25 +51,60 @@ Sanduíche pronto.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+var
+pao: boolean
+colocar pão na sanduicheira: boolean
 
-1- pegar um prato ----> colocar em cima do balcão;
+1- pegar um prato println("colocar em cima do balcão");
 
-2- tem pão?  se não ---> comprar pão;
-	     se sim ---> abrir sacola de pão ---> pegar pão ---> fechar sacola;
-	     abrir gaveta de talhares ---> pegar faca ---> cortar pão ---> colocar em pão cima do prato ---> ir até a gaveta ---> guardar faca ---> fechar gaveta de talheres;
+2- tem pão?  
+		if tem pão = true println("abrir sacola de pão")
+		println("pegar pão");
+		println("fechar sacola");
 
-3- ir até a geladeira ---> abrir geladeira ---> pegar queijo e presunto ---> fechar geladeira;
+		else println("comprar pão");
+		
 
-4- voltar até onde esta o prato;
+println("abrir gaveta de talhares");
+println("pegar faca cortar pão"); 
+println("colocar em pão cima do prato");
+println("ir até a gaveta");
+println("guardar faca);
+println("fechar gaveta de talheres");
 
-5- abrir pão ---> colocar o presunto e o queijo dentro do pão ---> fechar pão;
 
-6- colocar pão na sanduicheira? se não ---> pão pronto;
-				se sim ---> ir até sanduicheira ---> ligar sanduicheira ---> abrir a sanduicheira ---> pegar o pão ---> colocar dentro da sanduicheira ---> fechar sanduicheria;
+println("ir até a geladeira");
+println("abrir geladeira");
+println("pegar queijo e presunto");
+println("fechar geladeira");
 
-7- aguardar o pão ficar pronto ---> abrir sanduicheira ---> tirar o pão da sanduicheira ---> colocar o pão em cima do prato ---> fechar sanduicheria ---> desligar sanduichiera;
 
-8- sanduiche pronto;
+voltar até onde esta o prato;
+
+println("abrir pão");
+println("colocar o presunto e o queijo dentro do pão");
+println("fechar pão");
+
+println("colocar pão na sanduicheira?");
+
+		if colocar pão na sanduicheira? = true 
+		println("ir até sanduicheira");
+		println("ligar sanduicheira");
+		println("abrir a sanduicheira");
+		println("pegar o pão");
+		println("colocar dentro da sanduicheira");
+		println("fechar sanduicheria");
+
+		else println("pão pronto");
+
+println("aguardar o pão ficar pronto");
+println("abrir sanduicheira);
+println("tirar o pão da sanduicheira);
+println("colocar o pão em cima do prato);
+println("fechar sanduicheria);
+println("desligar sanduichiera);
+
+println("sanduiche pronto");
 	     
 	     
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
