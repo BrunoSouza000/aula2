@@ -64,3 +64,68 @@ int main() {
          
     return 0;
 }
+
+
+----------------------------------------
+#include <stdio.h>
+ 
+int main() {
+ 
+    int A = 0;
+    int B = 0;
+    int PROD = 0;
+
+    
+    scanf("%d\n%d", &A, &B);
+    
+    PROD = A*B;
+    
+    printf("PROD = %d\n", PROD);
+    
+  
+    return 0;
+}
+
+-------------------------------------------------
+#include <stdio.h>
+ 
+int main() {
+    
+    
+    double pA = 3.5;
+    double nA = 0;
+    double pB = 7.5;
+    double nB = 0;
+    double MEDIA = 0;
+    
+     scanf("%lf\n%lf",&nA, &nB);
+    
+    MEDIA = ((pA*nA)+(pB*nB))/(pA+pB);
+    
+    
+    printf("MEDIA = %.5lf\n", MEDIA);
+    
+    return 0;
+}
+
+--------------------------------------------------------------
+
+#include <stdio.h>
+ 
+     
+#define PESO_UM 2
+#define PESO_DOIS 3
+#define PESO_TRES 5
+
+int main() {
+
+double a = 0.0, b = 0.0, c = 0.0;
+double media = 0.0;
+
+scanf("%lf\n%lf\n%lf", &a, &b, &c);
+media = ((a*PESO_UM)+(b*PESO_DOIS)+(c*PESO_TRES))/(PESO_UM+PESO_DOIS+PESO_TRES);
+
+printf("MEDIA = %.1lf\n", media);
+
+    return 0;
+}
