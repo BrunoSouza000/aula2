@@ -129,3 +129,48 @@ printf("MEDIA = %.1lf\n", media);
 
     return 0;
 }
+
+------------------------------------------------------
+
+atv 14 - incompleta:
+#include <stdio.h>
+ 
+int main() {
+    
+    
+    int disKM = 0;
+    double combust = 0;
+    double gasto = 0;
+    
+     scanf("%d\n%.1lf",&disKM, &combust);
+    
+     
+    gasto = (combust*gasto);
+    
+    printf("Combustivel gasto = %.3lf\n", gasto);
+    
+    return 0;
+}
+
+
+---------------------------------------
+
+atv 19 HORAS
+
+#include <stdio.h>
+
+int main() {
+    
+    int N, horas, minutos, segundos;
+
+    scanf("%d", &N);
+
+    horas = N / 3600;
+    minutos = (N % 3600) / 60;
+    segundos = N % 60;
+
+    printf("%d:%d:%d\n", horas, minutos, segundos);
+
+    return 0;
+}
+
